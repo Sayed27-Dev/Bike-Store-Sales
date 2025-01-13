@@ -33,7 +33,7 @@ This repository contains an analysis of bike store sales data, focusing on custo
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bike-store-sales-analysis.git
+   https://github.com/Sayed27-Dev/Bike-Store-Sales.git
    ```
 2. Open the Excel file in the `dashboard/` folder to explore the analysis and insights.
 3. Refer to the `data/` folder for raw and cleaned datasets.
@@ -56,4 +56,4 @@ Contributions are welcome! Please fork the repository, make updates, and submit 
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-For any questions or feedback, please reach out to [your_email@example.com].
+For any questions or feedback, please reach out to www.linkedin.com/in/sayed-rahaman.
